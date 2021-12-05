@@ -2,7 +2,7 @@
 
 <div align="center" markdown="1">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&color=%23EB403F&size=28&center=true&multiline=true&width=800&height=200&lines=Electrical+and+Electronics+Engineering+Student;%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83and+Game+Developer;Currently+improving+myself+in%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83;%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83C%2B%2B+and+Unreal+Engine+4;%E2%80%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&color=%23EB403F&size=30&center=true&vCenter=true&multiline=true&width=800&height=280&lines=%E2%80%83;Electrical+and+Electronics+Engineering+Student;%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83and+Game+Developer;%E2%80%83;Currently+improving+myself+in%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83;%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83C%2B%2B+and+Unreal+Engine+4;%E2%80%83)](https://git.io/typing-svg)
 
 </div>
 
