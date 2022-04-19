@@ -2,12 +2,6 @@
 
 <div align="center" markdown="1">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&color=%23EB403F&size=30&center=true&vCenter=true&multiline=true&width=800&height=280&lines=%E2%80%83;Electrical+and+Electronics+Engineering+Student;%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83and+Game+Developer;%E2%80%83;Currently+improving+myself+in%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83;%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83C%2B%2B+and+Unreal+Engine+4;%E2%80%83)
-
-</div>
-
-<div align="center" markdown="1">
-
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=trknell&cover_image=true&theme=natemoo-re&bar_color=2d3436&bar_color_cover=false)
 
 </div>
