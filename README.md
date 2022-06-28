@@ -1,5 +1,3 @@
-![](images/index.png)
-
 <div align="center" markdown="1">
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=trknell&cover_image=true&theme=natemoo-re&bar_color=2d3436&bar_color_cover=false)
