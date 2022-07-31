@@ -6,7 +6,7 @@
 
 <div align="center" markdown="1">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecancorapci&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecancorapci&layout=compact&theme=radical&langs_count=6" />
 
 </div>
 
