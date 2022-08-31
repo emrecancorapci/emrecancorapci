@@ -1,23 +1,41 @@
-<div align="center" markdown="1">
+<h1 align="center">Hi, I'm Emre Can</h1>  
+<h3 align="center">Software Developer from Turkey</h3>  
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=trknell&cover_image=true&theme=natemoo-re&bar_color=2d3436&bar_color_cover=false)
+- 🔭 I’m currently working on [Yet Another Blog Project](https://github.com/emrecancorapci/Yet-Another-Blog-Project)  
+  
+- 🌱 I’m currently learning **React**  
+  
+- 📫 How to reach me **emrecancorapci@gmail.com**  
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emrecancorapci&label=Profile%20views&color=ff8000&style=flat" alt="emrecancorapci" /> </p>  
+  
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrecancorapci&rank=S,A,B" alt="emrecancorapci" /></a> </p>  
+  
+
+
+
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecancorapci&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6" alt="emrecancorapci" />
 </div>
-
-<div align="center" markdown="1">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecancorapci&layout=compact&theme=radical&langs_count=6" />
-
-</div>
-
-
+<p></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&locale=en" alt="emrecancorapci" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrecancorapci&theme=dark" alt="emrecancorapci" /></p>  
+  
+<p></p>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-<a href="https://linkedin.com/in/emrecancorapci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrecancorapci" height="30" width="40" /></a>
-<a href="https://medium.com/@emrecancorapci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emrecancorapci" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/emrecancorapci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emrecancorapci" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emrecancorapci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrecancorapci" height="30" width="40" /></a>  
+<a href="https://stackoverflow.com/users/19532885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19532885" height="30" width="40" /></a>  
+<a href="https://instagram.com/voidofsolitude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="voidofsolitude" height="30" width="40" /></a>  
+<a href="https://medium.com/@emrecancorapci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emrecancorapci" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/emrecancorapci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emrecancorapci" height="30" width="40" /></a> 
 </p>
 
 <h1 align="center">Languages and Tools:</h1>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<div align="center">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+</div>
