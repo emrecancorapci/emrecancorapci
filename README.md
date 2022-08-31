@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Emre Can</h1>  
 <h3 align="center">Software Developer from Turkey</h3>  
 
 - 🔭 I’m currently working on [Yet Another Blog Project](https://github.com/emrecancorapci/Yet-Another-Blog-Project)  
