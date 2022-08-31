@@ -11,8 +11,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecancorapci&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6" alt="emrecancorapci" />
 </div>
 <p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&locale=en" alt="emrecancorapci" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrecancorapci&theme=dark" alt="emrecancorapci" /></p>  
-  
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&locale=en" alt="emrecancorapci" />
+</div>
+<p></p>
+
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrecancorapci&theme=dark" alt="emrecancorapci" />
+</div>
 <p></p>
 
 <h1 align="center">Connect with me:</h1>
