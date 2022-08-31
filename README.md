@@ -4,7 +4,13 @@
   
 - 🌱 I’m currently learning **React**  
   
-- 📫 How to reach me **emrecancorapci@gmail.com**  
+- 📫 How to reach me **emrecancorapci@gmail.com**
+
+<div align="center">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=trknell)
+
+</div>
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecancorapci&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6" alt="emrecancorapci" />
