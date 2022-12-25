@@ -18,7 +18,7 @@
 <p></p>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&locale=en" alt="emrecancorapci" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="emrecancorapci" />
 </div>
 <p></p>
 
