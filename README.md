@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Yet Another Blog Project](https://github.com/emrecancorapci/Yet-Another-Blog-Project)  
   
-- 🌱 I’m currently learning **MongoDB**  
+- 🌱 I’m currently learning **MongoDB, TypeScript and React**  
   
 - 📫 How to reach me **emrecancorapci@gmail.com**
 
