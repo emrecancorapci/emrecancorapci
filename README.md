@@ -1,7 +1,7 @@
 <div align="center">
 
 # A Software Developer from Turkey
-### Currently learning *NodeJs* and *Express*
+### Currently learning *Advanced React*
 
 ### Active Personal Projects:
 #### [SvelteKit Blog Site Project](https://github.com/emrecancorapci/sveltekit_blog)
