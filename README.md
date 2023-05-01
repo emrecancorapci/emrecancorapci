@@ -25,11 +25,11 @@
 
 ###
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="emrecancorapci" />
+<img align="center" src="https://readme-stats.jonas-bernard.dev/api?username=emrecancorapci&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="emrecancorapci" />
 
 ###
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecancorapci&show_icons=true&theme=dark&locale=en&langs_count=7" alt="emrecancorapci" />
+<img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs?username=emrecancorapci&show_icons=true&theme=dark&locale=en&langs_count=7" alt="emrecancorapci" />
 
 ##
 
