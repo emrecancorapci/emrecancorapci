@@ -2,6 +2,8 @@
 
 # A Software Developer from Turkey
 ### Currently learning *Advanced React*
+  
+  ![](https://komarev.com/ghpvc/?username=emrecancorapci)
 
 ### Active Personal Projects:
 #### [SvelteKit Blog Site Project](https://github.com/emrecancorapci/sveltekit_blog)
