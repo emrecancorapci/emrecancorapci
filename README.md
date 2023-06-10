@@ -1,12 +1,7 @@
 <div align="center">
 
 # A Software Developer from Turkey
-### Currently learning *Advanced React*
-
-### Active Personal Projects:
-#### [SvelteKit Blog Site Project](https://github.com/emrecancorapci/sveltekit_blog)
-#### [Yet Another Blog Project](https://github.com/emrecancorapci/YetAnotherBlogProject)
-#### [C++ Chess Project](https://github.com/emrecancorapci/cpp_chess)
+### Currently learning *Astro* and *Strapi*
 
 ## Reach me
 
