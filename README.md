@@ -16,7 +16,15 @@
 
 ##
 
-[![](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontWeight=thin&lineCount=7&theme=gotham&line1=cplusplus,cpp,00599C;csharp,csharp,239120;javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;&line2=css3,Css3,1572B6;html5,html5,E34F26;bootstrap,bootstrap,7952B3;&line3=dotnet,.NET,512BD4;svelte,sveltekit,FF3E00;node.js,node.js,339933;express,express,ffffff;&line4=react,react,61DAFB;&line5=postgresql,postgresql,4169E1;microsoftsqlserver,mssql,CC2927;mongodb,mongodb,47A248;&line6=eslint,eslint,4B32C3;prettier,prettier,F7B93E;&line7=postman,postman,FF6C37;insomnia,insomnia,4000BF;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontWeight=thin&lineCount=7&theme=gotham&line1=cplusplus,cpp,00599C;csharp,csharp,239120;javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;&line2=css3,Css3,1572B6;html5,html5,E34F26;bootstrap,bootstrap,7952B3;&line3=dotnet,.NET,512BD4;svelte,sveltekit,FF3E00;node.js,node.js,339933;express,express,ffffff;&line4=react,react,61DAFB;&line5=postgresql,postgresql,4169E1;microsoftsqlserver,mssql,CC2927;mongodb,mongodb,47A248;&line6=eslint,eslint,4B32C3;prettier,prettier,F7B93E;&line7=postman,postman,FF6C37;insomnia,insomnia,4000BF;)
+[![Backend](https://skillicons.dev/icons?i=astro,react,svelte,solidjs,dotnet,nodejs,express,prisma&perline=4)](https://github.com/emrecancorapci)
+
+[![Styling](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap)](https://github.com/emrecancorapci)
+
+[![Languages](https://skillicons.dev/icons?i=cs,cpp,js,ts,python)](https://github.com/emrecancorapci)
+
+[![Softwares](https://skillicons.dev/icons?i=postman,vscode,visualstudio,powershell,git,figma,ps)](https://github.com/emrecancorapci)
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://github.com/emrecancorapci)
 
 ###
 
