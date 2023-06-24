@@ -1,7 +1,7 @@
 <div align="center">
 
 # A Software Developer from Turkey
-### Currently learning *Astro* and *Strapi*
+### Currently learning *Next.js*
 
 ## Reach me
 
