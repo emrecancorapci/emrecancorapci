@@ -1,7 +1,7 @@
 <div align="center">
 
 # A Software Developer from Turkey
-### Currently learning *Next.js*
+### Currently learning *Next.js* and *three.js*
 
 ## Reach me
 
@@ -16,7 +16,7 @@
 
 ##
 
-[![Backend](https://skillicons.dev/icons?i=astro,react,svelte,solidjs,dotnet,nodejs,express,prisma&perline=4)](https://github.com/emrecancorapci)
+[![Backend](https://skillicons.dev/icons?i=astro,react,svelte,nextjs,dotnet,nodejs,express,prisma&perline=4)](https://github.com/emrecancorapci)
 
 [![Styling](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap)](https://github.com/emrecancorapci)
 
