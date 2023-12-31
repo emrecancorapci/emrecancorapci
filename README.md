@@ -1,7 +1,7 @@
 <div align="center">
 
 # A Software Developer from Turkey
-### Currently learning *Next.js* and *three.js*
+### Currently learning *Tauri*
 
 ## Reach me
 
@@ -16,13 +16,15 @@
 
 ##
 
-[![Backend](https://skillicons.dev/icons?i=astro,react,svelte,nextjs,dotnet,nodejs,express,prisma&perline=4)](https://github.com/emrecancorapci)
+[![Frontend](https://skillicons.dev/icons?i=astro,react,svelte,nextjs)](https://github.com/emrecancorapci)
 
-[![Styling](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap)](https://github.com/emrecancorapci)
+[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,express,tauri,firebase)](https://github.com/emrecancorapci)
+
+[![Styling](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,tailwind)](https://github.com/emrecancorapci)
 
 [![Languages](https://skillicons.dev/icons?i=cs,cpp,js,ts,python)](https://github.com/emrecancorapci)
 
-[![Softwares](https://skillicons.dev/icons?i=postman,vscode,visualstudio,powershell,git,figma,ps)](https://github.com/emrecancorapci)
+[![Softwares](https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,ps)](https://github.com/emrecancorapci)
 
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://github.com/emrecancorapci)
 
