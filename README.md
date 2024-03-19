@@ -1,7 +1,6 @@
 <div align="center">
 
 # A Software Developer from Turkey
-### Currently learning *Tauri*
 
 ## Reach me
 
@@ -18,7 +17,7 @@
 
 [![Frontend](https://skillicons.dev/icons?i=astro,react,svelte,nextjs)](https://github.com/emrecancorapci)
 
-[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,express,tauri,firebase)](https://github.com/emrecancorapci)
+[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,express,firebase)](https://github.com/emrecancorapci)
 
 [![Styling](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,tailwind)](https://github.com/emrecancorapci)
 
