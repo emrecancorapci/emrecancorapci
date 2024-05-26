@@ -21,7 +21,7 @@
 
 [![Styling](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,tailwind)](https://github.com/emrecancorapci)
 
-[![Languages](https://skillicons.dev/icons?i=cs,cpp,js,ts,python)](https://github.com/emrecancorapci)
+[![Languages](https://skillicons.dev/icons?i=cs,cpp,js,ts,rust,python)](https://github.com/emrecancorapci)
 
 [![Softwares](https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,ps)](https://github.com/emrecancorapci)
 
