@@ -15,13 +15,13 @@
 
 ##
 
-[![Frontend](https://skillicons.dev/icons?i=astro,react,svelte,nextjs)](https://github.com/emrecancorapci)
+[![Frontend](https://skillicons.dev/icons?i=astro,react,nextjs)](https://github.com/emrecancorapci)
 
-[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,express,firebase)](https://github.com/emrecancorapci)
+[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,express)](https://github.com/emrecancorapci)
 
 [![Styling](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,tailwind)](https://github.com/emrecancorapci)
 
-[![Languages](https://skillicons.dev/icons?i=cs,cpp,js,ts,rust,python)](https://github.com/emrecancorapci)
+[![Languages](https://skillicons.dev/icons?i=cs,cpp,js,ts,rust)](https://github.com/emrecancorapci)
 
 [![Softwares](https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,ps)](https://github.com/emrecancorapci)
 
