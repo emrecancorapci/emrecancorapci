@@ -4,7 +4,7 @@
 
 ## Reach me
 
-### [emrecancorapci@gmail.com](mailto:emrecancorapci@gmail.com)
+#### [emrecancorapci@gmail.com](mailto:emrecancorapci@gmail.com)
 
 <p>
 <a href="https://linkedin.com/in/emrecancorapci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrecancorapci" height="30" width="40" /></a>  
@@ -15,28 +15,19 @@
 
 ##
 
-[![Frontend](https://skillicons.dev/icons?i=astro,react,nextjs)](https://github.com/emrecancorapci)
-
-[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,express)](https://github.com/emrecancorapci)
-
-[![Styling](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,tailwind)](https://github.com/emrecancorapci)
-
-[![Languages](https://skillicons.dev/icons?i=cs,cpp,js,ts,rust)](https://github.com/emrecancorapci)
-
-[![Softwares](https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,ps)](https://github.com/emrecancorapci)
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://github.com/emrecancorapci)
+<img src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&include_all_commits=true&hide_title=true&card_width=400" alt="Emre's GitHub stats"></img> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecancorapci&show_icons=true&theme=dark&locale=en&langs_count=6&layout=compact&card_width=400" alt="emrecancorapci" />
 
 ###
 
-<img align="center" src="https://readme-stats.jonas-bernard.dev/api?username=emrecancorapci&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="emrecancorapci" />
+[![Languages](https://skillicons.dev/icons?i=ts,rust)](https://github.com/emrecancorapci) &nbsp;&nbsp;&nbsp;&nbsp; [![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js)](https://github.com/emrecancorapci) 
 
-###
+[![Frontend](https://skillicons.dev/icons?i=astro,react,nextjs)](https://github.com/emrecancorapci) &nbsp;&nbsp;&nbsp;&nbsp; [![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,express)](https://github.com/emrecancorapci)
 
-<img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs?username=emrecancorapci&show_icons=true&theme=dark&locale=en&langs_count=7" alt="emrecancorapci" />
+[![Styling](https://skillicons.dev/icons?i=bootstrap,sass,styledcomponents,tailwind)](https://github.com/emrecancorapci) &nbsp;&nbsp;&nbsp;&nbsp; [![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://github.com/emrecancorapci)
 
 ##
 
-![](https://spotify-recently-played-readme.vercel.app/api?user=trknell)
+![](https://spotify-recently-played-readme.vercel.app/api?user=trknell&unique=true&count=10)
+
 
 </div>
