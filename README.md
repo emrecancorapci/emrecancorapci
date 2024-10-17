@@ -15,7 +15,7 @@
 
 ##
 
-<img src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&include_all_commits=true&hide_title=true&card_width=400" alt="Emre's GitHub stats"></img> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecancorapci&show_icons=true&theme=dark&locale=en&langs_count=6&layout=compact&card_width=400" alt="emrecancorapci" />
+<img src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&include_all_commits=true&card_width=400" alt="Emre's GitHub stats" />
 
 ###
 
@@ -24,6 +24,10 @@
 [![Frontend](https://skillicons.dev/icons?i=astro,react,nextjs)](https://github.com/emrecancorapci) &nbsp;&nbsp;&nbsp;&nbsp; [![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,express)](https://github.com/emrecancorapci)
 
 [![Styling](https://skillicons.dev/icons?i=bootstrap,sass,styledcomponents,tailwind)](https://github.com/emrecancorapci) &nbsp;&nbsp;&nbsp;&nbsp; [![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://github.com/emrecancorapci)
+
+###
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecancorapci&theme=dark&langs_count=6&layout=compact&card_width=432" alt="Emre's language stats" />
 
 ##
 
