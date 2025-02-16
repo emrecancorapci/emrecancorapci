@@ -1,27 +1,21 @@
+# A Full-Stack Software Developer from Turkey
+
+## 📬 Reach Me
+
 <div align="center">
 
-# A Software Developer from Turkey
+[![Email](https://img.shields.io/badge/Email-emrecancorapci@proton.me-purple?style=for-the-badge)](mailto:emrecancorapci@proton.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre%20Can%20Corapci-blue?style=for-the-badge)](https://linkedin.com/in/emrecancorapci)
 
-## Published Packages
+</div>
 
-[krustie](https://crates.io/crates/krustie) - An Easy to Use Backend Framework for Rust (+9000 Downloads)
+## 📦 Published Packages
 
-[radyx](https://crates.io/crates/radyx) - A Radix Tree Implementation For Rust (New!)
+- **[krustie](https://crates.io/crates/krustie)** —  An easy to use back-end framework for Rust ***9,000+ downloads***
+- **[radyx](https://crates.io/crates/radyx)** —  A Radix Tree implementation in Rust. 🎂 ***New!***
 
-## Reach me
+## ⚡ Tech Stack ⚡
 
-#### [emrecancorapci@gmail.com](mailto:emrecancorapci@gmail.com)
-
-<p>
-<a href="https://linkedin.com/in/emrecancorapci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrecancorapci" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/emrecancorapci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emrecancorapci" height="30" width="40" /></a> 
-</p>
-
-##
-
-<img src="https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&include_all_commits=true&card_width=400" alt="Emre's GitHub stats" />
-
-###
+<div align="center">
 
 [![Languages](https://skillicons.dev/icons?i=ts,rust,,c,cpp,cs,md)](https://github.com/emrecancorapci)
 
@@ -31,13 +25,22 @@
 
 [![ToolsAndTechs](https://skillicons.dev/icons?i=arduino,bash,graphql,vite,vitest,,nginx)](https://github.com/emrecancorapci)
 
-###
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecancorapci&theme=dark&langs_count=6&layout=compact&card_width=432" alt="Emre's language stats" />
+## 📊 Stats
 
-##
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrecancorapci&show_icons=true&theme=dark&include_all_commits=true&card_width=400)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=emrecancorapci&theme=dark&langs_count=6&layout=compact&card_width=432)
+
+
+</div>
+
+## 🎵 Spotify Recently Played
+
+<div align="center">
+  
 ![](https://spotify-recently-played-readme.vercel.app/api?user=trknell&unique=true&count=10)
-
 
 </div>
