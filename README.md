@@ -10,7 +10,7 @@
 
 ## 📦 Published Packages
 
-- **[krustie](https://crates.io/crates/krustie)** —  An easy to use back-end framework for Rust ***9,000+ downloads***
+- **[krustie](https://crates.io/crates/krustie)** —  An easy to use back-end framework for Rust ***10k+ downloads***
 - **[radyx](https://crates.io/crates/radyx)** —  A Radix Tree implementation in Rust. 🎂 ***New!***
 
 ## ⚡ Tech Stack ⚡
