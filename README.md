@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-emrecancorapci@proton.me-purple?style=for-the-badge)](mailto:emrecancorapci@proton.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre%20Can%20Corapci-blue?style=for-the-badge)](https://linkedin.com/in/emrecancorapci)
+[![Email](https://img.shields.io/badge/Email-emrecancorapci@gmail.com-purple?style=for-the-badge)](mailto:emrecancorapci@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre%20Can%20Corapci-blue?style=for-the-badge)](https://linkedin.com/in/emrecancorapci)
 
 </div>
 
