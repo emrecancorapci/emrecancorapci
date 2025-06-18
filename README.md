@@ -10,20 +10,30 @@
 
 ## 📦 Published Packages
 
-- **[krustie](https://crates.io/crates/krustie)** —  An easy to use back-end framework for Rust ***12k+ downloads***
+- **[krustie](https://crates.io/crates/krustie)** —  An easy to use back-end framework for Rust ***13k+ downloads***
 - **[radyx](https://crates.io/crates/radyx)** —  A Radix Tree implementation in Rust. 🎂 ***400+ downloads***
 
 ## ⚡ Tech Stack ⚡
 
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=ts,,cpp,cs,rust)](https://github.com/emrecancorapci)
+### Languages
 
-[![FrontendAndBackend](https://skillicons.dev/icons?i=astro,react,,graphql,nodejs,express)](https://github.com/emrecancorapci)
+[![Languages](https://skillicons.dev/icons?i=ts,cpp,cs,rust)](https://github.com/emrecancorapci)
 
-[![StylingAndDatabases](https://skillicons.dev/icons?i=sass,styledcomponents,tailwind,,postgres,mongodb)](https://github.com/emrecancorapci)
+### Development
 
-[![ToolsAndTechs](https://skillicons.dev/icons?i=vite,vitest,sequelize,,nginx)](https://github.com/emrecancorapci)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,sequelize,postgres,mongodb,redis)](https://github.com/emrecancorapci)
+
+[![Frontend](https://skillicons.dev/icons?i=astro,react,tailwind,sass,styledcomponents)](https://github.com/emrecancorapci)
+
+[![ToolsAndTechs](https://skillicons.dev/icons?i=vite,vitest,graphql)](https://github.com/emrecancorapci)
+
+### Development Environment
+
+[![Picks](https://skillicons.dev/icons?i=apple,arch,vscodium,postman)](https://github.com/emrecancorapci)
+
+[![ToolsAndTechs](https://skillicons.dev/icons?i=nginx,githubactions,docker)](https://github.com/emrecancorapci)
 
 </div>
 
